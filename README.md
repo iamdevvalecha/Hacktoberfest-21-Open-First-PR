@@ -29,7 +29,6 @@ Add a picture picture of your choice in `static/images/`. Accepted files are **p
 static/images/<YOUR-USERNAME>.png
 ```
 
-_Be aware, this picture will be displayed on the yearbook!_
 
 ## 2. Add your profile information
 
