@@ -2,8 +2,6 @@
 
 Make your first Pull Request and earn a free tee from GitHub!
 
-# Welcome to GitHub!
-
 ## This project is perfect for your first pull request
 
 ## Instructions-
@@ -47,8 +45,6 @@ institution/company: INSTITUTION_NAME
 github:USERNAME
 ---
 ```
-
-_Do not use special characters in the template above._
 
 ## 4. Wait for Pull Request to merge
 
