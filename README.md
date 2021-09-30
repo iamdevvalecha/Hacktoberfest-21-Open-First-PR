@@ -1,5 +1,5 @@
-# Hacktoberfest2021 OPEN FIRST PR---its a very good project and get a free tshirt.
-![Hacktoberfest 2021](static/logo.png)
+# Hacktoberfest2021 OPEN FIRST PULL REQUEST- It's a very good project and you get a free t-shirt 👕.
+<img src="static/logo.png" align-items=center />
 
 Make your first Pull Request and earn a free tee from GitHub!
 
@@ -47,7 +47,12 @@ github:USERNAME
 ---
 ```
 
-## 4. Wait for Pull Request to merge
+## 4. Wait for Pull Request to be merged!
+
+### How to know if you have been accepted as a contribution in HacktoberFest:
+
+- [x] You get a Hacktoberfest Accepted label to your Pull Request.
+- [x] Your pull request gets merged. 
 
 ## 5. Celebrate - you've done your first pull request!!
 
