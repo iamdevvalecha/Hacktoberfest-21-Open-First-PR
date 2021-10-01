@@ -59,4 +59,4 @@ github: NAMA PENGGUNA GITHUB ANDA
 ## 5. Rayakan - Anda telah melakukan pull request pertama Anda!!
 
 ### Made by:-
-[![GitHub followers](https://img.shields.io/github/followers/iamdevvalecha.svg?label=Follow%20@iamdevvalecha&style=social)](https://github.com/Alhiqny404/)
+[![GitHub followers](https://img.shields.io/github/followers/alhiqny404.svg?label=Follow%20@iamdevvalecha&style=social)](https://github.com/Alhiqny404/)
