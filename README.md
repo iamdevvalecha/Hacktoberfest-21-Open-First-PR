@@ -13,7 +13,7 @@ Make your first Pull Request and earn a free tee from GitHub!
 - Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
 - Add your profile data in `content/participant/`
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
-- Create a pull request
+- Create a pull request (**Please call your pull request `add user_name` change `user_name` to your own name**)
 - Star this repository
 
 # How to make your first Pull Request
@@ -46,6 +46,8 @@ institution/company: INSTITUTION_NAME
 github:USERNAME
 ---
 ```
+
+## Call your pull request `add user_name`, change `user_name` to your own name!
 
 ## 4. Wait for Pull Request to be merged!
 
