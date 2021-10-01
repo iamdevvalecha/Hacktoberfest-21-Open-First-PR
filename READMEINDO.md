@@ -7,16 +7,6 @@ Buat Pull Request pertama Anda dan dapatkan tee gratis dari GitHub!
 
 ## Instruksi-
 
-- Fork this Repository using t
-- Clone your forked repository to your pc ( git clone "url from clone option.)
-- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
-- Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
-- Add your profile data in `content/participant/`
-- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
-- Create a pull request (**Please call your pull request `add user_name` change `user_name` to your own name**)
-- Star this repository
-
-
 - Fork Repositori ini menggunakan tombol di atas
 - Gandakan repositori bercabang Anda ke pc Anda ( git clone "url from clone option.)
 - Buat cabang baru untuk modifikasi Anda (mis. `git branch pengguna-baru` dan periksa `git checkout pengguna-baru` dan `git checkout -b pengguna-baru`)
