@@ -47,7 +47,7 @@ github: NAMA PENGGUNA GITHUB ANDA
 ---
 ```
 
-## Panggil pull request Anda `tambah user_name`, ubah `user_name` menjadi nama Anda sendiri!
+## Panggil pull request Anda `add user_name`, ubah `user_name` menjadi nama Anda sendiri!
 
 ## 4. Tunggu Pull Request digabung!
 
