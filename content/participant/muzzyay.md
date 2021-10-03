@@ -1,5 +1,5 @@
 ---
 name: Mustafa Ay
-institution/company: KickPOst
+institution/company: KickPost
 github: https://github.com/muzzyay
 ---
