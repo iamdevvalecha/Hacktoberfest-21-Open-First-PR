@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int T;
+	cin >> T;
+	
+	while(T--){
+	    int N, K;
+	    int max=0;
+	    cin >>N >> K;
+	    for(int i=1; i<=K; i++){
+	       int a;
+	        a=N%i;
+	        if(a>max){
+	            max=a;
+	        }
+	        
+	    }
+	    
+	    cout << max <<endl;
+	}
+	return 0;
+}
