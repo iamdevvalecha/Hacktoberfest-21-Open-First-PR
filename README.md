@@ -1,5 +1,5 @@
 # Hacktoberfest2021 OPEN FIRST PULL REQUEST- It's a very good project and you get a free t-shirt 👕.
-<img src="static/logo.png" align-items=center />
+<img src="static/hacktoberfest.png" align-items=center />
 
 Make your first Pull Request and earn a free tee from GitHub!
 
