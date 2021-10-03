@@ -1,5 +1,5 @@
 # Hacktoberfest2021 OPEN FIRST PULL REQUEST- It's a very good project and you get a free t-shirt 👕.
-<img src="static/logo.png" align-items=center />
+<img src="static/hacktoberfest.png" align-items=center />
 
 Make your first Pull Request and earn a free tee from GitHub!
 
@@ -15,8 +15,6 @@ Make your first Pull Request and earn a free tee from GitHub!
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Create a pull request (**Please call your pull request `add user_name` change `user_name` to your own name**)
 - Star this repository
-- [![GitHub followers](https://img.shields.io/github/followers/iamdevvalecha.svg?label=Follow%20@iamdevvalecha&style=social)](https://github.com/iamdevvalecha/)
-
 
 # How to make your first Pull Request
 
@@ -60,3 +58,5 @@ github:USERNAME
 
 ## 5. Celebrate - you've done your first pull request!!
 
+### Made by:-
+[![GitHub followers](https://img.shields.io/github/followers/iamdevvalecha.svg?label=Follow%20@iamdevvalecha&style=social)](https://github.com/iamdevvalecha/)
