@@ -1,9 +1,9 @@
-# Hacktoberfest2021 OPEN FIRST PULL REQUEST- It's a very good project and you get a free t-shirt 👕.
+# Hacktoberfest2021 OPEN FIRST PULL REQUEST FOR PRACTICE.
 <img src="static/hacktoberfest.png" align-items=center />
 
-Make your first Pull Request and earn a free tee from GitHub!
+Make your first Pull Request!
 
-## This project is perfect for your first pull request
+## This project is perfect for your first pull request!
 
 ## Instructions-
 
@@ -50,11 +50,6 @@ github:USERNAME
 ## Call your pull request `add user_name`, change `user_name` to your own name!
 
 ## 4. Wait for Pull Request to be merged!
-
-### How to know if you have been accepted as a contribution in HacktoberFest:
-
-- [x] You get a Hacktoberfest Accepted label to your Pull Request.
-- [x] Your pull request gets merged. 
 
 ## 5. Celebrate - you've done your first pull request!!
 
