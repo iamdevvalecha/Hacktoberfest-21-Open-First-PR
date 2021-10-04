@@ -1,5 +1,5 @@
 ---
 name: Roch Roger
-institution/company: MUET
+institution: MUET
 github: rochroger
 ---
